@@ -47,7 +47,8 @@ const App = () => (
           Copyright © 2023
           <Link to="/">CryptoPedia</Link> <br />
           All Rights Reserved.
-          <br /> An Interactive Project Developed by Group 67 of UEM Kolkata.
+          <br /> An Interactive Project Developed by Group 67 of UEM Kolkata.{" "}
+          <br /> <a href="https://github.com/Raider-9/CryptoPedia">GitHub</a>
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
